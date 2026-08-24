@@ -135,6 +135,44 @@ Los archivos de base de datos y otros archivos generados por la aplicación est�
 
 Los datos utilizados para la demostración son ficticios y fueron creados exclusivamente para esta versión pública.
 
+## Capturas de la aplicación
+
+Las siguientes capturas corresponden a la versión demostrativa del sistema y utilizan exclusivamente datos ficticios.
+
+### Pantalla principal
+
+![Pantalla principal](docs/screenshots/main-screen.png)
+
+### Preparación de despacho
+
+Carga de piezas y preparación de un despacho antes de su generación.
+
+![Preparación de despacho](docs/screenshots/dispatch-preparation.png)
+
+### Procesamiento de rendición
+
+Registro de resultados de entrega y motivos de rendición para las piezas procesadas.
+
+![Procesamiento de rendición](docs/screenshots/return-processing.png)
+
+### Estado del despacho
+
+Seguimiento de piezas pendientes y rendidas dentro de cada despacho.
+
+![Estado del despacho](docs/screenshots/dispatch-status.png)
+
+### Estadísticas operativas
+
+Resumen del estado general de las correspondencias y distribución de rendiciones por resultado.
+
+![Estadísticas](docs/screenshots/statistics.png)
+
+### Trazabilidad de una pieza
+
+Consulta individual de una correspondencia con información de despacho, rendición, resultado y estado actual.
+
+![Trazabilidad de pieza](docs/screenshots/piece-tracking.png)
+
 ## Estado del proyecto
 
 Proyecto funcional en evolución.
